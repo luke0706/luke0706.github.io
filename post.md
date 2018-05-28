@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Post
-permalink: /pos/
+permalink: /post/
 ---
 
 This is Post page
-
-{% include form.html %}
-
-{% include modal.html %}
