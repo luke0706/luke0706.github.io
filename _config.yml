@@ -23,7 +23,7 @@ disqus:
 markdown: kramdown
 highlighter: rouge # or pygments or null
 #theme: jekyll-theme-cayman
-theme: jekyll-sleek
+theme: jekyll-theme-dinky
 exclude:
   - README.md
   - node_modules
