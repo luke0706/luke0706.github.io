@@ -108,17 +108,17 @@ analytics:
 # Site Author
 author:
   name             : "Luke Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "시골 프로그래머"
   location         : "경북 구미시"
-  email            :
+  email            : #"keiject@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:keiject@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://luke0706.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/luke0706"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
