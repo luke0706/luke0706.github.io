@@ -1,6 +1,6 @@
 ---
-title: "Reviews"
-permalink: /reviews/
+title: "Article"
+permalink: /article/
 layout: single
 ---
 
