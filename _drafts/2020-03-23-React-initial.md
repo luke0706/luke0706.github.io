@@ -1,14 +1,28 @@
-# React에 대한 정의와 React.js Webpack 설정하는 방법
-## [Summary]
+---
+title: "React에 대한 정의와 React.js Webpack 설정하는 방법"
+excerpt: React를 처음 만났을 때 나의 생각
+categories:
+- Develop
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
+author_profile: true
+read_time: false
+---
+### [Summary]
+```
 웹 개발자가 아니면 리액트는 뭔지 모름
 
 외부에서 들어온 일 때문에 리엑트를 건드리긴 했는데 나는 html, css만 아는 사람으로
 
-시발.. 하다가 뭐이렇게 설치할게 많은지 개빡쳐서 암걸리는 줄 알았다.
+X발.. 하다가 뭐이렇게 설치할게 많은지 개빡쳐서 암걸리는 줄 알았다.
 
 그래도 기록으로 남겨서 나같이 고생하는 사람들에게 도움이 되고자 함
-
-### 1. Define React(리엑트 정의)
+```
+#### 1. Define React(리엑트 정의)
 ```
  - 자바스크립트 라이브러리의 하나로서 사용자 인터페이스를 만들기 위해 사용됨
  - 페이스북 개별 개발자 및 기업들 공동체에 의해 유지보수된다
@@ -17,7 +31,7 @@
  (출처 : https://wikipedia.org/)
  ```
  
-### 2. Require React for learning(리엑트를 배우기 위해 필요한 지식)
+#### 2. Require React for learning(리엑트를 배우기 위해 필요한 지식)
 - 리액트를 배우기 위해서 필요한 것은 무엇일까
   > 기본적으로 얘가 어떻게 작동하는지 알아야함
 
@@ -25,8 +39,9 @@
 
 - 만약 당신이 HTML / CSS / Javasciprt를 알고 있는 사람이라면
 
-### 3. How to Different React vs React Native(React와 React Native 차이점)
-### 4. What is React.js Webpack ?(그래서 이 웹팩은 뭔데?)
+#### 3. How to Different React vs React Native(React와 React Native 차이점)
+
+#### 4. What is React.js Webpack ?(그래서 이 웹팩은 뭔데?)
 
 * 참고 블로그
 

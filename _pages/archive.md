@@ -1,7 +1,5 @@
 ---
-title: "Archive"
+title: "Posts"
 permalink: /archive/
-layout: single
+layout: posts
 ---
-
-## Archive 목록

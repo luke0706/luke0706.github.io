@@ -1,7 +1,7 @@
 ---
-title: "Article"
-permalink: /article/
-layout: single
+title: "Articles"
+layout: collection
+permalink: /articles/
+collection: articles
+show_excerpts : true
 ---
-
-## Review 목록
