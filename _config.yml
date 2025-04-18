@@ -20,7 +20,7 @@ title                    : "Luke's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luke Lee"
-description              : "괴발개발하는 내 블로그"
+description              : "지방에서 소프트웨어를 연구합니다"
 url                      : "https://luke0706.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -259,6 +259,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+series_archive:
+  type: liquid
+  path: /series/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -282,6 +285,30 @@ compress_html:
 # Collections
 collections:
   articles:
+    output: true
+    permalink: /:collection/:path/
+  os-dev:
+    output: true
+    permalink: /:collection/:path/
+  python:
+    output: true
+    permalink: /:collection/:path/
+  system-programming:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  opensource:
+    output: true
+    permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
+  tools:
     output: true
     permalink: /:collection/:path/
 

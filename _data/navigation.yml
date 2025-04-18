@@ -1,16 +1,46 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
-  - title: "Articles"
-    url: /articles/
-  - title: "Posts"
-    url: /archive/
-  # - title: "Archive"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Blog"
+    children:
+      - title: "전체 포스트"
+        url: /posts/
+      - title: "기술 포스트"
+        url: /categories/tech/
+      - title: "개발 일지"
+        url: /categories/devlog/
+      - title: "TIL"
+        url: /categories/til/
+  - title: "Projects"
+    children:
+      - title: "전체 프로젝트"
+        url: /projects/
+      - title: "웹 개발"
+        url: /categories/web/
+      - title: "앱 개발"
+        url: /categories/app/
+      - title: "오픈소스"
+        url: /categories/opensource/
+  - title: "Series"
+    children:
+      - title: "전체 시리즈"
+        url: /series/
+      - title: "Python 기초"
+        url: /series/python-basic/
+      - title: "웹 개발 입문"
+        url: /series/web-dev/
+      - title: "알고리즘"
+        url: /series/algorithm/
+  - title: "Resources"
+    children:
+      - title: "Book Reviews"
+        url: /resources/books/
+      - title: "Study Notes"
+        url: /resources/notes/
+      - title: "Useful Tools"
+        url: /resources/tools/
+  - title: "Contact"
+    url: /contact/
